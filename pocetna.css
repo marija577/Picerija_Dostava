@@ -1,0 +1,164 @@
+﻿html,body{
+    position: relative;
+    top: 0;
+    bottom: 8%;
+    left: 0;
+    right: 0;
+    background-color: whitesmoke;
+    }
+
+body{
+    background-color: whitesmoke;
+}
+
+body,h1,h2,h3,h4,h5,h6{
+    font-size: 30px;
+    font-family: Amatic SC;
+
+}
+button{
+
+    background-color: whitesmoke;
+    border: solid 1px;
+    color: black;
+    padding: 6px 2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 0.2rem;
+    transition-duration: 0.4s;
+    width: 5%;
+
+}
+
+button:hover{
+
+    background-color: darkred;
+    color: white;
+
+}
+.menu{
+    font-family: Amatic SC;
+    margin: 0 auto;}
+
+input{
+    font-family: 'Amatic Sc', sans-serif;
+    color: #333;
+    font-size: 20px;
+    margin: 0 auto;
+    padding: 10px 5px;
+    border-radius: 0.2rem;
+    background-color: rgb(255, 255,255);
+    border: none;
+    width: 15%;
+    display: block;
+    border-bottom: 0.3rem solid transparent;
+    transition:all 0.3s;
+    text-align: center;
+}
+
+input:hover{
+
+    background-color: grey;
+    color: blue;
+
+}
+input:focus{
+    background-color: grey;
+    color: blue;
+}
+
+table{
+    border-collapse: collapse;
+
+    margin: 0 auto;
+    font-size: 20px;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    border: 1px solid black;
+}
+thead tr{
+    background-color: wheat;
+    color: #ffffffff;
+    text-align: left;
+}
+th, td{
+
+    padding: 12px 15px;
+    border: 1px solid black;
+    pading: 5px;
+
+}
+
+tbody tr{
+
+    border-bottom: 1px solid #dddddd;
+
+}
+
+tbody tr:nth-of-type(even){
+
+    background-color: #f3f3f3;
+
+}
+
+tbody tr:last-of-type{
+
+    border-bottom: 2px solid black;
+
+}
+tbody tr:hover{
+    background-color: goldenrod;
+}
+
+h1{
+    color: darkred;
+    font-family: 'Righteous', cursive;
+    font-size: 25px;
+    font-weight: normal;
+    line-height: 60px;
+    margin: 10px 0 20px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 0 #000;
+    margin: 10px 0 24px;
+    text-align: center;
+
+}
+::placeholder{
+    color: black;
+    opacity: 0.9;
+    font-style: italic;
+
+}
+::placeholder:focus-visible{
+    visibility: hidden;
+}
+::placeholder:hover{
+    color: white;
+}
+input:focus::placeholder{
+    color: blue;
+}
+
+.checkmark{
+    width: 1.3em;
+    height: 1.3em;
+    background-color: whitesmoke;
+    border-radius: 40%;
+    vertical-align: middle;
+    border: 1px solid #ddd;
+    -webkit-appearance: none;
+    outline: none;
+    cursor: pointer;
+}
+
+
+
+
+
+
+

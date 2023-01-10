@@ -1,0 +1,29 @@
+html,body{
+    position: relative;
+    top: 0;
+    bottom: 8%;
+    left: 0;
+    right: 0;
+}
+
+.container{
+    font-family: Amatic Sc;
+    font-size: 30px;
+}
+.close { font-family: Amatic Sc;
+    font-size: 30px;
+}
+
+.button {
+    font-size: 16px;
+    padding: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+
+.button:hover{
+    background-color:darkred;
+    color: whitesmoke;
+}
+

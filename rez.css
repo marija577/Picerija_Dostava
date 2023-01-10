@@ -1,0 +1,87 @@
+.menu{
+    font-family: Amatic SC;
+    margin: 0 auto;
+   }
+button{
+
+    background-color: whitesmoke;
+    border: none;
+    color: black;
+    padding: 6px 2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 0.2rem;
+    transition-duration: 0.4s;
+    width: 5%;
+
+}
+
+button:hover{
+
+    background-color: darkred;
+    color: darkred;
+
+}
+
+input{
+    font-family: 'Amatic Sc', sans-serif;
+    color: #333;
+    font-size: 20px;
+    margin: 0 auto;
+    padding: 10px 5px;
+    border-radius: 0.2rem;
+    background-color: rgb(255, 255,255);
+    border: none;
+    width: 15%;
+    display: block;
+    border-bottom: 0.3rem solid transparent;
+    transition:all 0.3s;
+    text-align: center;
+}
+
+
+table{
+    border-collapse: collapse;
+    background-color: goldenrod;
+    margin: 0 auto;
+    font-size: 20px;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    border: 1px solid black;
+}
+thead tr{
+    background-color: wheat;
+    color: #ffffffff;
+    text-align: left;
+}
+th, td{
+    padding: 12px 15px;
+    border: 1px solid black;
+    pading: 5px;
+}
+
+tbody tr{
+    border-bottom: 1px solid #dddddd;
+}
+
+tbody tr:nth-of-type(even){
+    background-color: #f3f3f3;}
+tbody tr:last-of-type{
+    border-bottom: 2px solid black;
+}
+
+
+
+
+
+
+
+
+
+
+
