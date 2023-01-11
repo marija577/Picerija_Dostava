@@ -8,7 +8,7 @@ Jezik koji je korišćen u izradi je PHP.
 Otvaranjem stranice "Prijava" korisnik se prijavljuje na svoj nalog unosom korisničkog imena i lozinke. Ukoliko još uvek nema svoj nalog, korisnik se registruje uz pomoć svojih podataka.\
 Iz menija restorana korisnik bira šta želi da poruči i dodaje jela u svoju porudžbinu.\
 Ukoliko nema dovoljno sredstava na računu, korisnik može da izabere opciju da uplati kredit.\
-Nakon uplate kredita moguća je ostvariti porudžbinu.
+Nakon uplate kredita moguće je ostvariti porudžbinu.
 
 ## Radili
 Marija Milićevic milicevicmarija577@gmail.com\
