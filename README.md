@@ -1,6 +1,6 @@
 # Projekat - Porucivanje_i_dostava_hrane
 ## Kratak opis
-Projekat je pravljen za potrebe polaganja ispita na fakultetu. \
+Projekat je pravljen za potrebe polaganja ispita na fakultetu. Fokus je bio na samom radu aplikacije, zbog toga je dizajn veoma jednostavan i minimalan. \
 Aplikacija služi za predstavljanje sajta imaginarnog restorana, gde korisnici mogu da otvore svoj nalog, pogledaju meni restora i poruče željenu hranu na svoju adresu.\
 Jezik koji je korišćen u izradi je PHP.
 
